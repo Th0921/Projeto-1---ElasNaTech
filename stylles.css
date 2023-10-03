@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    align-items: center;
+}
+
+.margin{
+    background-color: blueviolet;
+    
+}
+
+.paragrafo-margim {
+    margin: 80px 80px 80px 80px;
+    background-color: rgb(225, 116, 185);
+}
+
+
+.padding{
+    background-color: blueviolet;
+}
+
+.paragrafo-padding{
+    padding: 80px;
+    background-color: rgb(225, 116, 185);
+}
+
+.paragrafo-border{
+    border: solid 20px ;
+    background-color: rgb(225, 116, 185);
+}
